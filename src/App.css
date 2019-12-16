@@ -1,0 +1,10 @@
+.container {
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+}
+
+.content {
+  width: 30%;
+  max-width: 800px;
+}

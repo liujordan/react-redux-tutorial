@@ -1,0 +1,9 @@
+.PlayerList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.PlayerList > *{
+  flex: 2 2 160px;
+}
